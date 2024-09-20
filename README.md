@@ -1,5 +1,9 @@
 # **Customer Behavior and Sales Analysis**
 
+![Sample Visualization](visualizations/distribution_total_amount_quantity.png)
+
+## Project Overview
+
 This project involves analyzing sales and customer behavior using MS SQL for database management and querying, and Python for data cleaning and visualization. The data is sourced from Kaggle and processed to gain insights into customer behavior and sales trends.
 
 ## **Project Structure**
