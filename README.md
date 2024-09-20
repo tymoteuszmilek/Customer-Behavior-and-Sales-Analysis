@@ -19,6 +19,9 @@ The project directory is organized as follows:
 
 - **backup/**: Contains backup files of the server database for restoration.
 
+- **screenshots/**: Contains screenshots showing absolute paths that need to be changed for manual database setup.
+
+
 ## **Getting Started**
 
 ### **Prerequisites**
